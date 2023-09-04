@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Image Editor App using Streamlit
 
 
@@ -45,4 +42,3 @@ This repository contains a Python application built using the Streamlit library 
 - This app has been developed using Streamlit along with Python's imaging libraries (PIL, OpenCV, NumPy).
 - The provided code is intended for educational and illustrative purposes and can be extended to suit specific requirements.
 - Feel free to explore, customize, and use the app as a foundation for creating more advanced image editing applications.
->>>>>>> 4bf1aa7 (Updated Readme)
