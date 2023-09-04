@@ -100,7 +100,6 @@ tenacity==8.2.3
 tensorboard==2.13.0
 tensorboard-data-server==0.7.1
 tensorboardX==2.6.2.2
-tensorflow==2.13.0
 tensorflow-estimator==2.13.0
 tensorflow-macos==2.13.0
 tensorlayerx==0.5.8
